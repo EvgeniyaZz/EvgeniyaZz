@@ -9,6 +9,9 @@
   <a href="https://t.me/EvgeniyaZakharova19">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  <a href="mailto:zakharova.evgeniya.19@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-yellow?style=for-the-badge&logo=gmail" alt="Gmail Badge"/>
+  </a>
 </div>
 
 <div align="center">
