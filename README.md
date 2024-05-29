@@ -21,11 +21,9 @@
 </h1>
 
 ### :woman_technologist: About Me :
-I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with more than 1 year of experience.
 
 - :telescope: My main technology stack is Java/ Maven/ Hibernate/ Spring/ PostgreSQL/ JUnit
-
-- :seedling: Exploring Java for over 1 year.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-EvgeniyaZz-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/EvgeniyaZakharova19)
 
